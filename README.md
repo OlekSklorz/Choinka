@@ -1,2 +1,0 @@
-# Choinka
-Nowa choinka
